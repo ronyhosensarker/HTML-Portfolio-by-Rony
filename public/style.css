@@ -11,9 +11,17 @@ h2{
 p{
     font-size:large;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
 }
+
 ul {
     font-size:large;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+div {
+    height: 180px;
+    width: 180px;
+    padding: 20px;
+    border: 4px solid rgba(71, 103, 161, 0.404);
+
 }
